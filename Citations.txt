@@ -1,0 +1,10 @@
+We asked AI if it 
+Can provide me with an example of an method/algorithm that provides the top of our the best items in a list that uses a
+single variable without outright giving me the answer
+
+It provided us with
+1. Method to find the single best item
+Purpose: Search through a list and return either the value or index of the best item.
+Type: Could return int (index) or the same type as the list (double, String, etc.)
+Parameters: The list to search.
+Example concept name: findBestIndex(list) or findHighestValue(list)
